@@ -1,6 +1,6 @@
 # LoginElement
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.18.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.18. The contents of the project were created by mostly following this [Angular elements example](https://github.com/leebrandt/angular-elements-example).
 
 ## Development server
 
